@@ -1,0 +1,13 @@
+{
+  "name": "material-symbols",
+  "version": "0.1.0",
+  "description": "Material Symbols Component",
+  "main": "src/main.js",
+  "keywords": [
+    "material",
+    "icon",
+    "svg"
+  ],
+  "author": "Phyo Wai Lin (nureon22)",
+  "license": "MIT"
+}
