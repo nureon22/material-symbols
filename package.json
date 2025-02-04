@@ -1,5 +1,5 @@
 {
-  "name": "material-symbols",
+  "name": "@nureon22/material-symbols",
   "version": "0.1.0",
   "description": "Material Symbols Component",
   "main": "src/main.js",
